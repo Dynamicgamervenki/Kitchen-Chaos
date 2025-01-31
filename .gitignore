@@ -1,0 +1,52 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific Unity files
+Library/
+Temp/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Auto-generated and cache files
+obj/
+Builds/
+Build/
+ExportedObj/
+*.apk
+*.aab
+*.unitypackage
+*.log
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.vsp
+*.vspx
+*.sln
+*.sln.docstates
+*.wldb
+
+# Unity Collab & Cloud Build
+.collab/
+.Unity/
+*.cloud
+
+# Rider & VS Code
+.idea/
+.vscode/
+*.code-workspace
+
+# Ignore LFS-tracked files in git
+Assets/AddressableAssetsData/*.bin
+Assets/StreamingAssets/*.mp4
+Assets/StreamingAssets/*.wav
+
+# Ignore crash reports
+CrashReports/
