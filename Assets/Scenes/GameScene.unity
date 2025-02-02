@@ -154,6 +154,7 @@ MonoBehaviour:
   countersLayerMask:
     serializedVersion: 2
     m_Bits: 64
+  _selectedCounter: {fileID: 0}
 --- !u!4 &15847026
 Transform:
   m_ObjectHideFlags: 0
@@ -962,6 +963,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -2043881954366419234, guid: 69fa4fe6408797a42aa64faa5d107270, type: 3}
+      propertyPath: tomatoPrefab
+      value: 
+      objectReference: {fileID: 1913931335668471992, guid: 4dff6133fba6c6042a5d6319da6282e7, type: 3}
     - target: {fileID: 5959793120868314944, guid: 69fa4fe6408797a42aa64faa5d107270, type: 3}
       propertyPath: m_Name
       value: ClearCounter
